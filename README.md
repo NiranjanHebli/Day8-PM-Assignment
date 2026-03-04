@@ -54,6 +54,7 @@ python3 optimized.py
 ```
 ## Output Screenshots:- 
 
+<img width="602" height="99" alt="Screenshot 2026-03-04 at 5 39 42 PM" src="https://github.com/user-attachments/assets/7869bd4a-8ea8-4a30-9401-1a4a8b5736b4" />
 
 ## Part C:- 
 Diamond Pattern:-
@@ -82,7 +83,10 @@ cd diamond_pattern
 python3 diamond_pattern.py
 python3 improved_diamond_pattern.py
 ```
-## Output Screenshot
+## Output Screenshot:-
+
+<img width="609" height="204" alt="Screenshot 2026-03-04 at 5 39 08 PM" src="https://github.com/user-attachments/assets/602b67e3-2d62-4021-856c-3e3071d72952" />
+
 
 ## Part D:- Daily Transaction Analyzer
 
@@ -101,5 +105,10 @@ This program is designed to analyze a list of daily transactions and generate ch
 ## Usage
 
 Open notebook and run the cells one by one 
+## Output Screenshots:-
+<img width="1031" height="747" alt="Screenshot 2026-03-04 at 5 41 44 PM" src="https://github.com/user-attachments/assets/e657c330-baa5-48ec-8cd7-aa8548cb8111" />
 
+<img width="1013" height="701" alt="Screenshot 2026-03-04 at 5 40 59 PM" src="https://github.com/user-attachments/assets/1634e079-0c5a-4969-9701-04e025f3b52c" />
+
+<img width="1033" height="710" alt="Screenshot 2026-03-04 at 5 42 32 PM" src="https://github.com/user-attachments/assets/c65e1acf-2c2b-485f-b99d-f3c92f576970" />
 
